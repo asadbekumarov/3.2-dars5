@@ -25,6 +25,6 @@ Elbtn.addEventListener("click", function (e) {
     Elinput.value = "";
     setTimeout(() => {
       Elres.textContent = "";
-    }, 3500);
+    }, 3000);
   }
 });
